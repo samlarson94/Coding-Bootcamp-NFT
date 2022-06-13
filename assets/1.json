@@ -1,0 +1,19 @@
+{
+    "name": "NUMBER #002",
+    "symbol": "CERT #002",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "BhDanyNUE6yeLDSKbLmZWe5UkSSqNnhjyPxe61Cyb5uY",
+          "share": 100
+        }
+      ]
+    }
+  }
